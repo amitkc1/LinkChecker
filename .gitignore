@@ -1,0 +1,6 @@
+**/.idea
+target
+.iml
+**/MobileUrlTest.java
+**/UrlTest.java
+.idea/libraries/**.xml
