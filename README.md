@@ -1,7 +1,7 @@
 # LinkChecker
 Pings a URL and checks the HTTP status code. Based on the status code, prints the URL and status code in color (on CI). 
 
-The project is based on Junit.This is how it works:
+This is how it works:
 
 1. If the status code is less than 300, prints the provided URL in green color and adds the URL and status code to
    the report file.
@@ -20,3 +20,6 @@ The project is based on Junit.This is how it works:
 
 6. For execution, create a LinkChecker.csv file and add a header "URLS" in the first column. After that add as many 
    URLs as you want.
+
+7. Sample output is available here: https://github.com/amitkc1/LinkChecker/blob/master/images/sampleOutput.png
+
