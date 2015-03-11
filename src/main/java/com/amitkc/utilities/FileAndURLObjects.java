@@ -23,6 +23,7 @@ public class FileAndUrlObjects {
     public static String originalURLs[] = null;
     public static int failCount=0;
     public static int count=0;
+    public static InputStream is = null;
     public static int internalErrorCount=0;
     public static int timeOutCount=0;
     public static int genericError=0;

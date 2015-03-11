@@ -1,6 +1,6 @@
 **/.idea
 target
-.iml
+LinkChecker.iml
 **/MobileUrlTest.java
 **/UrlTest.java
 .idea/libraries/**.xml

@@ -17,8 +17,7 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper{
     public static void main(String[] args) throws IOException{
 
         readDataFile();
-        printURLs();
-        testURLs(url);
+        testURLs();
 
 
     }
@@ -28,20 +27,24 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper{
 
 
 
-    public static void testURLs(String url) throws IOException {
+    public static void testURLs() throws IOException {
+        System.out.println("URL Check Started; wait for \"Completed\" message to open the file");
+        for(urlNumber =1; urlNumber<=originalURLs.length-1; urlNumber++){
 
-
+            url = dataArray.get(urlNumber);
             connectToURL(url);
             checkIfLessThan300();
             checkIfMoreThan400();
             checkIfRedirect();
+        }
+
 
     }
 
     public static void connectToURL(String url) throws IOException {
 
-        System.out.println("URL Check Started; wait for \"Completed\" message to open the file");
-        urls.add("Original URL	" + "Returned URL(May or May not be redirected)" + "	Response Code	" + "ServerID");
+
+        urls.add("Original URL	" + "Returned URL(May or May not be redirected)" + "	Response Code	");
         failedUrls.add("URLS");
         con = new URL(url).openConnection();
         con1 = (HttpURLConnection) (new URL(url).openConnection());
@@ -54,26 +57,24 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper{
     public static void checkIfLessThan300() throws IOException{
 
         if (con1.getResponseCode() < 300) {
-            System.out.println(ColorHelper.ANSI_GREEN+" URL Number: "+ (urlNumber+1)+" "+ColorHelper.ANSI_RESET);
+            System.out.println(ColorHelper.ANSI_GREEN+" URL Number: "+ (urlNumber+1)+" ");
             url = con.getURL().toString();
             responseCode = con1.getResponseCode();
-            serverID = con1.getHeaderField("ServerID") != null ? con1.getHeaderField("ServerID") : con1.getHeaderField("Server-ID");
-            System.out.println(ANSI_GREEN+" Original url: " + url + " Response Code:" + responseCode +" No Redirection"+" Server ID is: "+serverID+" "+ANSI_RESET);
+            System.out.println(ANSI_GREEN+" Original url: " + url + " Response Code:" + responseCode +" No Redirection");
             count = count + 1;
-            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode + "	" + serverID);
+            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode);
         }
     }
 
     public static void checkIfMoreThan400() throws IOException{
 
         if (con1.getResponseCode() >= 400) {
-            System.out.println(ColorHelper.ANSI_RED+" URL Number: "+ (urlNumber+1)+" "+ColorHelper.ANSI_RESET);
+            System.out.println(ColorHelper.ANSI_RED+" URL Number: "+ (urlNumber+1)+" ");
             url = con.getURL().toString();
             responseCode = con1.getResponseCode();
-            serverID = con1.getHeaderField("ServerID") != null ? con1.getHeaderField("ServerID") : con1.getHeaderField("Server-ID");
-            System.out.println(ColorHelper.ANSI_RED+ " orignal url: " + url + " Response Code:" + responseCode+" No Redirection"+" Server ID is: "+serverID+" "+ANSI_RESET);
+            System.out.println(ColorHelper.ANSI_RED+ " Original url: " + url + " Response Code:" + responseCode+" No Redirection");
             failCount = failCount + 1;
-            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode + "	" + serverID);
+            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode);
             failedUrls.add(originalURLs[urlNumber]);
         }
     }
@@ -85,10 +86,10 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper{
             url = con.getURL().toString();
             responseCode = con1.getResponseCode();
 
-            serverID = con1.getHeaderField("ServerID") != null ? con1.getHeaderField("ServerID") : con1.getHeaderField("Server-ID");
-            System.out.println(ColorHelper.ANSI_BLUE+"URL Number:"+ (urlNumber+1)+ANSI_RESET);
-            System.out.println(ColorHelper.ANSI_BLUE+"Orignal url: " + url + " Response Code:" + responseCode+" Server ID is: "+serverID+ColorHelper.ANSI_RESET);
-            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode + "	" + serverID);
+
+            System.out.println(ColorHelper.ANSI_BLUE+"URL Number:"+ (urlNumber+1));
+            System.out.println(ColorHelper.ANSI_BLUE+"Original url: " + url + " Response Code:" + responseCode);
+            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode);
             is = con.getInputStream();
             String redirected = con.getURL().toString();
             HttpURLConnection con2 = (HttpURLConnection) (new URL(redirected).openConnection());
@@ -97,13 +98,13 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper{
             url = con.getURL().toString();
             responseCode = con2.getResponseCode();
 
-            serverID = con1.getHeaderField("ServerID") != null ? con1.getHeaderField("ServerID") : con1.getHeaderField("Server-ID");
+
             if (responseCode < 300) {
                 count = count + 1;
             }
-//						ansiOut.outln("URL Number:"+ (i+1));
-//						ansiOut.outln("Redirected url:	" + url + " Response Code is " + responseCode+" Server ID is: "+serverID);
-            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode + "	" + serverID);
+            System.out.println("URL Number:"+ (urlNumber+1));
+            System.out.println("Redirected url:	" + url + " Response Code is " + responseCode);
+            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode);
 
         }
     }
