@@ -31,3 +31,4 @@ This program can be executed from IDE or CI. This is a single threaded linkcheck
 1. Creates a report that includes response code for each URL. This makes it easy to analyze the report and find out     the failures. <br/>
 2. Customized messages for errors<br/>
 3. Color coding to spot failures easily<br/>
+4. Allows users to set mobile user agent.
