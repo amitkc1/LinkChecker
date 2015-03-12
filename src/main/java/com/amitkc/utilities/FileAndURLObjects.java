@@ -21,7 +21,7 @@ public class FileAndUrlObjects {
     public static ArrayList<String> urls = new ArrayList<String>();
     public static ArrayList<String>failedUrls = new ArrayList<String>();
     public static String originalURLs[] = null;
-    public static int failCount=0;
+    public static int fileNotFoundCount=0;
     public static int count=0;
     public static InputStream is = null;
     public static int internalErrorCount=0;

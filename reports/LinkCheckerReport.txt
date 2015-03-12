@@ -1,0 +1,462 @@
+null	http://www.everydayhealth.com/low-testosterone/treatment.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/low-testosterone/basics.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hiv-aids/hiv-aids-caregiving.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/ulcerative-colitis/what-is-ulcerative-colitis.aspx	301
+null	http://www.everydayhealth.com/conditions/ulcerative-colitis	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hiv-aids/hiv-aids-therapy-and-treatment.aspx	301
+null	http://www.everydayhealth.com/hiv-aids/hiv-aids-treatment.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hiv-aids/hiv-aids-management.aspx	301
+null	http://www.everydayhealth.com/hiv/understanding-lab-tests.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/ankylosing-spondylitis/living-with-ankylosing-spondylitis.aspx	301
+null	http://www.everydayhealth.com/conditions/ankylosing-spondylitis	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/ankylosing-spondylitis/ankylosing-spondylitis-treatment.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/ankylosing-spondylitis/ankylosing-spondylitis-diagnosis.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/ankylosing-spondylitis/basics.aspx	301
+null	http://www.everydayhealth.com/conditions/ankylosing-spondylitis	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/preventing-high-cholesterol.aspx	301
+null	http://www.everydayhealth.com/high-cholesterol-pictures/simple-ways-to-lower-cholesterol.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/zocor.aspx	301
+null	http://www.everydayhealth.com/drugs/zocor	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/high-cholesterol-related-conditions.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/alternative-high-cholesterol-treatments.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/lipitor.aspx	301
+null	http://www.everydayhealth.com/drugs/lipitor	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/crestor.aspx	301
+null	http://www.everydayhealth.com/drugs/crestor	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/fibrates.aspx	301
+null	http://www.everydayhealth.com/drugs/fenofibrate	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/niacin.aspx	301
+null	http://www.everydayhealth.com/drugs/niacin	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/statins.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/bile-acid-sequestrants.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/high-cholesterol-and-diet.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/high-cholesterol-risks.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/high-cholesterol/what-is-high-cholesterol.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/related-conditions.aspx	301
+null	http://www.everydayhealth.com/conditions/hypertension	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/diabetes-and-hypertension.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/pregnancy-and-blood-pressure.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/hypertension-and-diet.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/drugs-that-cause-hypertension.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/blood-pressure-medication.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/hypertension-risk-factors.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/what-is-hypertension.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/adhd/zzz-adhd-treatment-and-diagnosis-col2.aspx	301
+null	http://www.everydayhealth.com/conditions/adhd	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/adhd/zzz-adhd-treatment-and-diagnosis-col1.aspx	301
+null	http://www.everydayhealth.com/conditions/adhd	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/knee-pain/diagnosis.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/knee-pain/symptoms.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hip-pain/causes-and-prevention.aspx	301
+null	http://www.everydayhealth.com/hip-pain/five-common-causes-of-hip-pain-in-women.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hip-pain/symptoms.aspx	301
+null	http://www.everydayhealth.com/pain-management/hip-pain/understanding/index.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/neck-pain/neck-symptoms.aspx	301
+null	http://www.everydayhealth.com/pain-management/neck-pain/understanding/index.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/back-pain/causes-and-prevention.aspx	301
+null	http://www.everydayhealth.com/back-pain/back-pain-causes.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/back-pain/symptoms.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/heart-health/related-conditions.aspx	301
+null	http://www.everydayhealth.com/conditions/heart-health	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/weight/weight-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hair-loss/hair-loss-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/urinary-tract-infection/uti-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/eating-disorders/all-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/gout/all-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/anemia/anemia-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/anemia/anemia-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/eczema/eczema-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/college-health/college-health-expert-answers.aspx	301
+null	http://www.everydayhealth.com/college-health/college-health-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/college-health/college-health-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/eczema/eczema-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/chronic-fatigue-syndrome/chronic-fatigue-syndrome-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/pregnancy/what-to-expect-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/rosacea/rosacea-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/rosacea/rosacea-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/pms/pms-expert-answers.aspx	301
+null	http://www.everydayhealth.com/pms/pms-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/pms/pms-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/pregnancy/what-to-expect-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/acne/acne-expert-answers.aspx	301
+null	http://www.everydayhealth.com/acne/acne-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/acne/acne-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/lung-cancer/lung-cancer-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/bladder-cancer/bladder-cancer-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/prostate-cancer/prostate-cancer-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/uterine-cancer/uterine-cancer-expert-answers.aspx	301
+null	http://www.everydayhealth.com/uterine-cancer/all-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/multiple-myeloma/multiple-myeloma-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/healthy-recipes/healthy-recipes-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/shingles/shingles-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/shingles/shingles-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/gallbladder/gallbladder-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/copd/copd-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/senior-health/senior-health-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/senior-health/all-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/gallbladder/gallbladder-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/cervical-cancer/cervical-cancer-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/autism/autism-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/oral-head-and-neck-cancer/oral-head-and-neck-cancer-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/lupus/lupus-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hepatitis/hepatitis-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/osteoarthritis/osteoarthritis-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/healthy-living/healthy-living-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/osteoporosis/osteoporosis-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/ovarian-cancer/ovarian-cancer-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/tuberculosis/tuberculosis-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/mens-health/mens-health-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/pregnancy/pregnancy-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/testicular-cancer/all-testicular-cancer-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/testicular-cancer/testicular-cancer-expert-answers.aspx	301
+null	http://www.everydayhealth.com/testicular-cancer/all-testicular-cancer-articles.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/knee-pain/knee-pain-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/rheumatic-diseases/rheumatic-diseases-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/weight/weight-expert-answers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/childhood-epilepsy/clinical-trials.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/ipapertest.aspx	301
+null	http://www.everydayhealth.com/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/rhema-test.aspx	301
+null	http://www.everydayhealth.com/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/rss-test.aspx	301
+null	http://www.everydayhealth.com/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/year-round-allergies/developing-or-outgrowing-allergies.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/year-round-allergies/most-common-fall-allergies.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/year-round-allergies/allergy-skin-test.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/best-beauty-habits-for-healthy-skin.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/summer-skin-care-guide.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/skin-care-for-aging-skin.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/kids-nutrition/healthy-eating-recipes.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/kids-nutrition/healthy-eating-tips.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/childhood-epilepsy/treatment.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/childhood-epilepsy/seizures.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/childhood-epilepsy/understanding.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/childhood-epilepsy/clinical-trials.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/childhood-epilepsy/information.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/kids-nutrition/calcium-counter.aspx	301
+null	http://www.everydayhealth.com/kids-nutrition/essential-nutrition.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/dry-skin-care.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/kids-nutrition/expert.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/kids-nutrition/vitamin-d-benefits.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/kids-nutrition/calcium-benefits.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/kids-nutrition/good-habits.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/kids-nutrition/healthy-snacks.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/kids-nutrition/essential-nutrition.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/year-round-allergies/allergies-or-cold.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/year-round-allergies/allergy-triggers.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/year-round-allergies/indoor-allergies-work.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/year-round-allergies/indoor-allergies-home.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/year-round-allergies/congestion-free.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/fitness-motivation/denise-austin.aspx	301
+null	http://www.everydayhealth.com/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/fitness-motivation/feel-full.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/specialreport/psoriasis/dos-and-donts-for-managing-psoriasis.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/specialreport/psoriasis/psoriatic-arthritis-101.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/healthy-holiday-gift-guide/blog.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/vaseline-skin-fund.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/winter-skin-tips.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/kids-dry-skin.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/skin-moisturizer.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/specialreport/heart-health/fiber-basics.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/skin-tips.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/dry-skin-eczema.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/dry-skin-climate.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/dry-skin-cold-weather.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/qa.aspx	301
+null	http://www.everydayhealth.com/dry-skin/skin-moisturizer.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/diabetes-and-skin.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/dry-skin-embarrassment.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/dry-skin/skin-conditions.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/healthy-snacks/fiber-benefits.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/specialreport/adhd/special-programs-for-adhd.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/umbilical-hernia-should-i-have-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/type-2-diabetes-should-i-take-insulin.aspx	301
+null	http://www.everydayhealth.com/type-2-diabetes/treatment/insulin/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/kidney-failure-when-should-i-start-dialysis.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/hiv-testing-should-i-get-tested-for-human-immunodeficiency-virus.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/sti-testing-should-i-get-tested-for-a-sexually-transmitted-infection.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/atrial-fibrillation-which-anticoagulant-should-i-take-to-prevent-stroke.aspx	301
+null	http://www.everydayhealth.com/atrial-fibrillation/treatment/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/abdominal-aortic-aneurysm-should-i-get-a-screening-test.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/heart-rate-problems-should-i-get-a-pacemaker.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/heart-rhythm-problems-should-i-get-an-implantable-cardioverter-defibrillator-icd.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/low-back-pain-should-i-try-epidural-steroid-shots.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/sore-throat-should-i-take-antibiotics.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/sinusitis-should-i-take-antibiotics.aspx	301
+null	http://www.everydayhealth.com/sinus-infection/treatments/antibiotics/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/healthy-aging-is-it-time-to-stop-driving.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/heart-problems-should-i-have-catheter-ablation.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/weight-management-should-i-use-over-the-counter-diet-aids.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/breast-cancer-what-should-i-do-if-im-at-high-risk.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/breast-cancer-risk-should-i-have-a-brca-gene-test.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/depression-should-i-stop-taking-my-antidepressant.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/diabetes-should-i-get-an-insulin-pump.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/ovarian-cancer-should-i-have-my-ovaries-removed-to-prevent-ovarian-cancer.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/hepatitis-b-and-c-should-i-be-tested.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/heart-disease-should-i-have-angioplasty-for-stable-angina.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/depression-should-i-take-antidepressants-while-im-pregnant.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/high-blood-pressure-should-i-take-medicine.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/pregnancy-should-i-bank-my-babys-umbilical-cord-blood.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/quitting-smoking-should-i-use-medicine.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/panic-disorder-should-i-take-medicine.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/testicular-cancer-which-treatment-should-i-have-for-stage-i-nonseminoma-testicular-cancer-after-my-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/testicular-cancer-which-treatment-should-i-have-for-stage-i-seminoma-testicular-cancer-after-my-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/inguinal-hernia-should-i-have-surgery-now-or-should-i-wait.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/insomnia-should-i-take-sleeping-pills.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/hearing-loss-should-i-get-hearing-aids.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/diabetes-should-i-get-pregnant.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/autopsy-should-i-have-an-autopsy-done-on-my-loved-one.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/hpv-should-my-child-get-the-vaccine.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/breast-feeding-should-i-breast-feed-my-baby.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/dupuytrens-disease-should-i-have-hand-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/arthritis-should-i-have-hip-replacement-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/arthritis-should-i-have-knee-replacement-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/achilles-tendon-rupture-should-i-have-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/bunions-should-i-have-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/obesity-should-i-have-weight-loss-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/bronchitis-should-i-take-antibiotics.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/erection-problems-should-i-take-medicine.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/erection-problems-should-i-try-injection-treatments.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/aspirin-should-i-take-daily-aspirin-to-prevent-a-heart-attack-or-stroke.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/heart-failure-should-i-get-a-pacemaker-cardiac-resynchronization-therapy.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/heart-failure-should-i-get-an-implantable-cardioverter-defibrillator-icd.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/ulcerative-colitis-should-i-have-surgery.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/health-center/heart-valve-problems-should-i-choose-a-mechanical-valve-or-tissue-valve-to-replace-my-heart-valve.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/sexual-health/dr-laura-berman/sexual-health.aspx	301
+null	http://www.everydayhealth.com/columns/dr-laura-berman-on-love-and-sex/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/sexual-health/dr-laura-berman/advice.aspx	301
+null	http://www.everydayhealth.com/columns/dr-laura-berman-on-love-and-sex/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/sexual-health/dr-laura-berman/sex-in-the-news.aspx	301
+null	http://www.everydayhealth.com/conditions/sexual-health	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/sexual-health/dr-laura-berman/great-sex.aspx	301
+null	http://www.everydayhealth.com/conditions/sexual-health	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/sexual-health/dr-laura-berman/relationships.aspx	301
+null	http://www.everydayhealth.com/emotional-health/7-ways-to-keep-your-relationship-healthy.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/pulmonary-hypertension.aspx	301
+null	http://www.everydayhealth.com/pulmonary-hypertension/	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/hypertension-drug-side-effects.aspx	301
+null	http://www.everydayhealth.com/hypertension/blood-pressure-medication.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/hypertension-drug-interactions.aspx	301
+null	http://www.everydayhealth.com/hypertension/blood-pressure-medication.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://www.everydayhealth.com/hypertension/diuretics.aspx	200
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/longevity/future-planning/alternatives-to-health insurance	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/brain-tumor/surgery-for-for brain-tumors	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/parkinsons-disease/coping-with-a loved-ones-diagnosis	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/breast-cancer/1017/less-frequent-mammograms-may-lower-false-positive results	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/healthy-living/1026/national-drug take-back-day-scheduled-for-saturday	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/kids-health/dr-mallikas-5-fast-facts-a-parents-guide to-unprotected-sexting	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/rheumatoid arthritis/0213/pending-methotrexate-shortage-can-affect-thousands-of-patients	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/erectile-dysfunction/0309/lawmakers-in-two-states-aim to-stiffen-rules-on-erectile-dysfunction-drugs	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/multiple sclerosis/0315/warmer-temperatures-have-negative-effect-on-ms-patients-cognitive-function	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/rheumatoid arthritis/how-rheumatoid-arthritis-affects-men	400
+Original URL	Returned URL(May or May not be redirected)	Response Code	
+null	http://m.everydayhealth.com/emotional-health/0410/seniors-on-the-move-less-likely to-experience-psychological-problems	400
