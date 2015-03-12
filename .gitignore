@@ -4,3 +4,5 @@ LinkChecker.iml
 **/MobileUrlTest.java
 **/UrlTest.java
 .idea/libraries/**.xml
+reports
+reports/**.txt

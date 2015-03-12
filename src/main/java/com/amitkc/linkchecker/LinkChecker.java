@@ -23,7 +23,7 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
     public static void testURLs() {
 
         System.out.println("URL Check Started; wait for \"Completed\" message to open the file");
-        originalURLs=new String[dataArray.size()];
+        urls.add("URL(May or May not be redirected)" + "	Response Code	");
         for (urlNumber = 1; urlNumber <= originalURLs.length - 1; urlNumber++) {
             url = dataArray.get(urlNumber);
             try {
@@ -36,17 +36,17 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
             } catch (FileNotFoundException e) {
                 fileNotFoundCount = fileNotFoundCount + 1;
                 url = con.getURL().toString();
-                urls.add(originalURLs[urlNumber] + "	" + url + "	" + 403);
+                urls.add(url + "	" + 403);
                 failedUrls.add(originalURLs[urlNumber]);
             } catch (IOException e) {
                 internalErrorCount = internalErrorCount + 1;
                 url = con.getURL().toString();
-                urls.add(originalURLs[urlNumber] + "	" + url + "	" + 500);
+                urls.add(url + "	" + 500);
                 failedUrls.add(originalURLs[urlNumber]);
             } catch (Exception e) {
                 genericError = genericError + 1;
                 url = con.getURL().toString();
-                urls.add(originalURLs[urlNumber] + "	" + url + "	" + e.getMessage());
+                urls.add(url + "	" + e.getMessage());
                 failedUrls.add(originalURLs[urlNumber]);
             }
         }
@@ -55,7 +55,7 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
 
     public static void connectToURL(String url) throws IOException {
 
-        urls.add("Original URL	" + "Returned URL(May or May not be redirected)" + "	Response Code	");
+
         failedUrls.add("URLS");
         con = new URL(url).openConnection();
         con1 = (HttpURLConnection) (new URL(url).openConnection());
@@ -73,7 +73,7 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
             responseCode = con1.getResponseCode();
             System.out.println(ANSI_GREEN + " Original url: " + url + " Response Code:" + responseCode + " No Redirection");
             count = count + 1;
-            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode);
+            urls.add(url + "	" + responseCode);
         }
     }
 
@@ -85,8 +85,7 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
             responseCode = con1.getResponseCode();
             System.out.println(ColorHelper.ANSI_RED + " Original url: " + url + " Response Code:" + responseCode + " No Redirection");
             fileNotFoundCount = fileNotFoundCount + 1;
-            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode);
-            failedUrls.add(originalURLs[urlNumber]);
+            urls.add(url + "	" + responseCode);
         }
     }
 
@@ -98,7 +97,7 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
             responseCode = con1.getResponseCode();
             System.out.println(ColorHelper.ANSI_BLUE + "URL Number:" + (urlNumber + 1));
             System.out.println(ColorHelper.ANSI_BLUE + "Original url: " + url + " Response Code:" + responseCode);
-            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode);
+            urls.add(url + "	" + responseCode);
             is = con.getInputStream();
             String redirected = con.getURL().toString();
             HttpURLConnection con2 = (HttpURLConnection) (new URL(redirected).openConnection());
@@ -111,7 +110,7 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
             }
             System.out.println("URL Number:" + (urlNumber + 1));
             System.out.println("Redirected url:	" + url + " Response Code is " + responseCode);
-            urls.add(originalURLs[urlNumber] + "	" + url + "	" + responseCode);
+            urls.add(url + "	" + responseCode);
         }
 
     }
@@ -126,7 +125,7 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
             }
             fStream = new FileWriter(file);
             out = new BufferedWriter(fStream);
-            for (urlNumber =1; urlNumber < urls.size(); urlNumber++) {
+            for (urlNumber =0; urlNumber < urls.size(); urlNumber++) {
                 out.write(urls.get(urlNumber));
                 out.newLine();
             }
