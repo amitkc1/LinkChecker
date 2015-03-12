@@ -12,7 +12,13 @@ import java.net.URL;
  */
 public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
 
+
     public static void main(String[] args) throws IOException {
+
+        if(args.length > 0&& args[0].equalsIgnoreCase("mobile")){
+            System.out.println("Mobile user agent is set");
+            isMobile = true;
+        }
 
         readDataFile();
         testURLs();
@@ -58,7 +64,13 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
 
         failedUrls.add("URLS");
         con = new URL(url).openConnection();
+        if(isMobile = true){
+            con.setRequestProperty("User-Agent", "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25");
+        }
         con1 = (HttpURLConnection) (new URL(url).openConnection());
+        if(isMobile = true){
+            con1.setRequestProperty("User-Agent", "Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25");
+        }
         con1.setInstanceFollowRedirects(false);
         con1.setConnectTimeout(10000);
         con1.setReadTimeout(10000);
@@ -101,6 +113,9 @@ public class LinkChecker extends FileAndUrlObjects implements ColorHelper {
             is = con.getInputStream();
             String redirected = con.getURL().toString();
             HttpURLConnection con2 = (HttpURLConnection) (new URL(redirected).openConnection());
+            if(isMobile = true){
+                con2.addRequestProperty("User-Agent", "Mozilla/5.0 (iPhone; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3");
+            }
             con2.setConnectTimeout(10000);
             con2.setReadTimeout(10000);
             url = con.getURL().toString();

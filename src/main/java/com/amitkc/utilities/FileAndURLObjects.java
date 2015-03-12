@@ -35,7 +35,7 @@ public class FileAndUrlObjects {
     public static URLConnection con=null;
     public static HttpURLConnection con1 =null;
     public static int urlNumber = 0;
-
+    public static boolean isMobile = false;
     public static void printURLs(){
 
         for(urlNumber =0; urlNumber<=originalURLs.length-1; urlNumber++){
