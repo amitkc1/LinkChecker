@@ -23,10 +23,11 @@ This is how it works:
 
 7. Sample output is available here: https://github.com/amitkc1/LinkChecker/blob/master/images/sampleOutput.png
 
-Usage:
+<br><strong>Usage:<strong/><br/>
+
 This program can be executed from IDE or CI. This is a single threaded linkchecker, I will be committing changes in near future to make it multithreaded. At the end of execution, this will create a text report.
 
-Features:
-1. Creates a report that includes response code for each URL. This makes it easy to analyze the report and find out     the failures
-2. Customized messages for errors
-3. Color coding to spot failures easily
+<br><strong>Features:</strong><br/>
+1. Creates a report that includes response code for each URL. This makes it easy to analyze the report and find out     the failures. <br/>
+2. Customized messages for errors<br/>
+3. Color coding to spot failures easily<br/>
