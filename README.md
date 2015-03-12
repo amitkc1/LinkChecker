@@ -1,5 +1,5 @@
 # LinkChecker
-Pings a URL and checks the HTTP status code. Based on the status code, prints the URL and status code in color (on CI). 
+Pings a URL and checks the HTTP status code. Based on the status code, prints the URL and status code in color (on CI). This is useful in finding broken links from the list of provided URLs
 
 This is how it works:
 
